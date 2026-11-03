@@ -1,0 +1,10 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#111111"/>
+  <rect x="40" y="40" width="720" height="920" rx="36" fill="#181818" stroke="rgba(255,255,255,0.16)"/>
+  <circle cx="400" cy="370" r="180" fill="#D9D9D9" fill-opacity="0.16"/>
+  <circle cx="400" cy="335" r="140" fill="#E7E7E7" fill-opacity="0.2"/>
+  <path d="M274 780C295 678 331 624 400 624C469 624 505 678 526 780H274Z" fill="#EAEAEA" fill-opacity="0.2"/>
+  <path d="M310 306C310 206 349 143 400 143C451 143 490 206 490 306V356C490 455 451 495 400 495C349 495 310 455 310 356V306Z" fill="#EAEAEA" fill-opacity="0.2"/>
+  <rect x="120" y="780" width="560" height="90" rx="18" fill="#0A0A0A" stroke="rgba(255,255,255,0.12)"/>
+  <text x="400" y="836" text-anchor="middle" fill="#F5F5F5" fill-opacity="0.7" font-family="Segoe UI, Arial, sans-serif" font-size="34" letter-spacing="10">PHOTO</text>
+</svg>
